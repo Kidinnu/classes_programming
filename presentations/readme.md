@@ -2,35 +2,21 @@
 
 ## Семестр 1
 
-[Введение](https://www.dropbox.com/s/v7d43lm0b2gjdly/Introduction_e.pdf?dl=0)
-
-[Основы Python 1. Синтаксис](https://www.dropbox.com/s/iv7v76s13wumiuc/Pyhton_basics_2_1_e.pdf?dl=0)
-
-[Основы Python 2. Списки, кортежи, множества](https://www.dropbox.com/s/tmnztwta8vhqy8h/Pyhton_basics_2_2_e.pdf?dl=0)
-
-[Основы Python 3. Словари](https://www.dropbox.com/s/4vv957967vd474k/Pyhton_basics_2_3_e.pdf?dl=0)
-
-[Функции](https://www.dropbox.com/s/v66za9e768f1m4r/Pyhton_functions_e.pdf?dl=0)
-
-[Элементы функционального программирования](https://www.dropbox.com/s/f2xd2c9gkuopnuf/Functional_programming_e.pdf?dl=0)
-
-[Модули и пакеты](https://www.dropbox.com/s/nor2py5w9voljh8/Python_modules_e.pdf?dl=0)
-
-[Ввод и вывод](https://www.dropbox.com/s/1590x59lp1eohby/Python_input-output_e.pdf?dl=0)
-
+1. [Введение](https://drive.google.com/open?id=0B8W8o1Z482f6d1lzbGxDNDlybVU)
+1. [Основы Python 1. Синтаксис](https://drive.google.com/open?id=0B8W8o1Z482f6WmtVaGhGRm5nT1E)
+1. [Основы Python 2. Списки, кортежи, множества](https://drive.google.com/open?id=0B8W8o1Z482f6VENZQmNsZHBSV1U)
+1. [Основы Python 3. Словари](https://drive.google.com/file/d/1FnPa2vEMksex8Hi_tkq8HeP1pVTkRtYW/view?usp=sharing)
+1. [Функции](https://drive.google.com/open?id=0B8W8o1Z482f6NXFxRXFWMjY1eTA)
+1. [Элементы функционального программирования](https://drive.google.com/open?id=1pzVSNjzYdzCc3pUiD3LDEXrCfSLl6vay)
+1. [Модули и пакеты](https://drive.google.com/open?id=1jjqi83OjRrvt7aWhJvScOztmkCTd7ALV)
+1. [Ввод и вывод](https://drive.google.com/open?id=1Hn7MAXuZ8QQZaS50XmmnXKGqTS8BCqgv)
 
 ## Семестр 2
 
-[Обработка ошибок](https://www.dropbox.com/s/mjw6jrtzdbbbwii/Pyhton_exceptions_e.pdf?dl=0)
-
-[Основы ООП 1.](https://www.dropbox.com/s/93o2bla9q469yib/Python_OOP_part_I_e.pdf?dl=0)
-
-[Основы ООП 2.](https://www.dropbox.com/s/anpk1drg9pubq92/Python_OOP_part_II_e.pdf?dl=0)
-
-[Библиотека numpy](https://www.dropbox.com/s/ylyirls6of1mroj/Python_numpy_I_e.pdf?dl=0)
-
-[Библиотека scipy](https://www.dropbox.com/s/0ycjfx3mnn7w9ir/Python_scipy_I_e.pdf?dl=0)
-
-Библиотека matplotlib
-
-Библиотека pandas
+1. [Обработка ошибок](https://drive.google.com/open?id=1WW-7AaxddKwNeXIayoGS7i_d52044XwE)
+1. [Основы ООП 1.](https://drive.google.com/open?id=1fTFh8oqlxZq8sIM3TX7gGzDcRhRf6BA0)
+1. [Основы ООП 2.](https://drive.google.com/open?id=14FiN_xQJ9wt3JT-9eK2pH5bMclVKBcuh)
+1. [Библиотека numpy](https://drive.google.com/file/d/1YQysF89HK5c_cI6A-EwdsqPIC0ZcdWj7/view?usp=sharing)
+1. [Библиотека scipy](https://drive.google.com/file/d/1yLo0EQbdrXXM-SkNfeKSRnGr5raor4DV/view?usp=sharing)
+1. Библиотека matplotlib
+1. Библиотека pandas
